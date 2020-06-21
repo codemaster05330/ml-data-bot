@@ -3,10 +3,12 @@
 [![HitCount](http://hits.dwyl.com/ashutosh1919/ml-data-bot.svg)](http://hits.dwyl.com/ashutosh1919/ml-data-bot)    [![Objective](https://img.shields.io/badge/Python-3.7.6-important)](https://img.shields.io/badge/Python-3.7.6-important)    [![Outcome](https://img.shields.io/badge/rasa-1.19-blueviolet)](https://img.shields.io/badge/rasa-1.19-blueviolet)    [![SideEffects](https://img.shields.io/badge/PRs-welcome-informational)](https://img.shields.io/badge/PRs-welcome-informational)
 
 This project is the small demo to create Conversation Agent which can perform tasks on data and also can give you important insights from data.
-The bot is created using opensource NLP & NLU framework `Rasa` which gives ample foundation to create Knowledge based chatbot by intents, entities, slots etc.  
+The bot is created using opensource NLP & NLU framework `Rasa` which gives ample foundation to create Knowledge based chatbot by intents, entities, slots etc.
+
 ![rasa_img](images/rasa.png)
 
 You can see the demo from below GIF where I am asking the bot questions regarding different datasets and it is answering me and also it is doing changes in datasets as per my messages.
+
 ![demo_gif](images/ml-data-bot.gif)
 
 # How to Run the Project
