@@ -1,1 +1,1 @@
-![demo_gif](ml-data.gif)
+![demo_gif](images/ml-data-bot.gif)
